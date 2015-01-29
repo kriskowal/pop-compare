@@ -6,6 +6,10 @@ objects and performs a deep comparison operation, traversing into arrays as well
 as delegating to the compare method of either argument if one exists, favoring
 the left side.
 
+```
+$ npm install --save pop-compare
+```
+
 A comparator returns a number that has the same relationship to zero as the left
 value has to the right.
 For numbers, subtracting the right from the left will give you such a
