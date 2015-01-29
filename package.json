@@ -1,0 +1,28 @@
+{
+  "name": "pop-compare",
+  "version": "0.0.0",
+  "description": "Polymorphic deep comparison operator for arbitrary values",
+  "main": "pop-compare.js",
+  "scripts": {
+    "test": "jasminum test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kriskowal/pop-compare.git"
+  },
+  "keywords": [
+    "pop",
+    "polymorphic",
+    "operator",
+    "compare"
+  ],
+  "author": "Kris Kowal <kris@cixar.com>",
+  "license": "3-Clause BSD",
+  "bugs": {
+    "url": "https://github.com/kriskowal/pop-compare/issues"
+  },
+  "homepage": "https://github.com/kriskowal/pop-compare",
+  "devDependencies": {
+    "jasminum": "0.0.4"
+  }
+}
